@@ -1,1 +1,1 @@
-# UVTGAN
+# ISGAN
